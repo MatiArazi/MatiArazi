@@ -1,4 +1,15 @@
 # Matias Arazi
+- Best repositories
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatiArazi&repo=Flaggerz&theme=slateorange)](https://github.com/MatiArazi/Flaggerz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZertiApp&repo=Zerti&theme=slateorange)](https://github.com/ZertiApp/Zerti)
+
+- Competitive programming links
+
+[CSES](https://cses.fi/user/6350)
+
+[OIA](http://www.juez.oia.unsam.edu.ar/#/user/MatiArazi/profile)
 - Programming languages
 
 
